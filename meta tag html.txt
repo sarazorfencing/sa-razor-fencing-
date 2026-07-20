@@ -1,0 +1,96 @@
+<!-- SEO Meta Tags + LocalBusiness Schema -->
+<head>
+  <title>SA Razor Fencing | Razor Wire & Security Fencing Gauteng</title>
+  <meta name="description" content="SA Razor Fencing provides razor wire, spike fencing, and palisade installations in Kempton Park, Edleen, Glen Marais, Birchleigh, Benoni, Boksburg, Brakpan, Germiston, and Ekurhuleni. Trusted fencing contractor in Gauteng.">
+  <meta name="keywords" content="razor fencing Kempton Park, razor wire Edleen, spike fencing Glen Marais, palisade fencing Birchleigh, fencing contractor Benoni, fencing Boksburg, fencing Brakpan, fencing Germiston, fencing Ekurhuleni, Gauteng security fencing">
+
+  <!-- LocalBusiness Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "SA Razor Fencing",
+    "image": "https://sarazorfence.co.za/logo.png",
+    "url": "https://sarazorfence.co.za",
+    "telephone": "+27-82-123-4567",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kempton Park",
+      "addressLocality": "Kempton Park",
+      "addressRegion": "Gauteng",
+      "postalCode": "1619",
+      "addressCountry": "ZA"
+    },
+    "openingHours": "Mo-Sa 08:00-17:00",
+    "priceRange": "$$",
+    "areaServed": [
+      "Kempton Park",
+      "Edleen",
+      "Glen Marais",
+      "Birchleigh",
+      "Benoni",
+      "Boksburg",
+      "Brakpan",
+      "Germiston",
+      "Ekurhuleni"
+    ],
+    "description": "SA Razor Fencing provides razor wire, spike fencing, and palisade installations across Gauteng. Trusted fencing contractor serving Kempton Park, Edleen, Glen Marais, Birchleigh, Benoni, Boksburg, Brakpan, Germiston, and Ekurhuleni."
+  }
+  </script>
+</head>
+
+<!-- Service Areas Section -->
+<section id="service-areas">
+  <h2>Service Areas</h2>
+  <p>
+    <strong>SA Razor Fencing</strong> proudly serves <strong>Kempton Park</strong> and suburbs including 
+    <strong>Edleen</strong>, <strong>Glen Marais</strong>, and <strong>Birchleigh</strong>. 
+    We also provide expert fencing solutions in <strong>Benoni</strong>, <strong>Boksburg</strong>, 
+    <strong>Brakpan</strong>, <strong>Germiston</strong>, and the wider <strong>Ekurhuleni</strong> region.
+  </p>
+</section>
+
+<!-- Suburb-Specific Content -->
+<section id="locations">
+  <h2>Local Fencing Services</h2>
+
+  <article id="edleen">
+    <h3>Razor Fencing in Edleen</h3>
+    <p>SA Razor Fencing installs durable razor wire, spike fencing, and palisade fencing in <strong>Edleen</strong>, Kempton Park. Secure your home or business with trusted fencing solutions.</p>
+  </article>
+
+  <article id="glen-marais">
+    <h3>Razor Fencing in Glen Marais</h3>
+    <p>Our team provides professional fencing installations in <strong>Glen Marais</strong>, ensuring maximum protection for residential and commercial properties.</p>
+  </article>
+
+  <article id="birchleigh">
+    <h3>Razor Fencing in Birchleigh</h3>
+    <p>SA Razor Fencing offers expert razor wire and spike fencing services in <strong>Birchleigh</strong>, delivering secure and long-lasting solutions.</p>
+  </article>
+
+  <article id="benoni">
+    <h3>Razor Fencing in Benoni</h3>
+    <p>We provide high-quality fencing installations in <strong>Benoni</strong>, trusted by homeowners and businesses across Gauteng.</p>
+  </article>
+
+  <article id="boksburg">
+    <h3>Razor Fencing in Boksburg</h3>
+    <p>SA Razor Fencing delivers reliable razor wire and palisade fencing solutions in <strong>Boksburg</strong> for enhanced property security.</p>
+  </article>
+
+  <article id="brakpan">
+    <h3>Razor Fencing in Brakpan</h3>
+    <p>Our team secures properties in <strong>Brakpan</strong> with professional fencing installations tailored to your needs.</p>
+  </article>
+
+  <article id="germiston">
+    <h3>Razor Fencing in Germiston</h3>
+    <p>We provide expert fencing services in <strong>Germiston</strong>, ensuring durable and secure installations for homes and businesses.</p>
+  </article>
+
+  <article id="ekurhuleni">
+    <h3>Razor Fencing in Ekurhuleni</h3>
+    <p>SA Razor Fencing covers the wider <strong>Ekurhuleni</strong> region, offering comprehensive fencing solutions across Gauteng.</p>
+  </article>
+</section>
